@@ -1,7 +1,5 @@
 # BDD - EstoqueLab
 
-Repositório dedicado à documentação de cenários de teste utilizando **BDD (Behavior-Driven Development)** e **Gherkin**, com base nas funcionalidades da plataforma EstoqueLab.
-
 O objetivo é demonstrar a aplicação de técnicas de análise e documentação de cenários de teste, transformando comportamentos e regras da aplicação em especificações claras, estruturadas e compreensíveis.
 
 ## Objetivo do projeto
